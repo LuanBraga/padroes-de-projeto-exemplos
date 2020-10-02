@@ -1,0 +1,6 @@
+C:\Users\PRLNAS\source\repos\MetodoFabrica\bin\Debug\MetodoFabrica.exe.config
+C:\Users\PRLNAS\source\repos\MetodoFabrica\bin\Debug\MetodoFabrica.exe
+C:\Users\PRLNAS\source\repos\MetodoFabrica\bin\Debug\MetodoFabrica.pdb
+C:\Users\PRLNAS\source\repos\MetodoFabrica\obj\Debug\MetodoFabrica.csprojAssemblyReference.cache
+C:\Users\PRLNAS\source\repos\MetodoFabrica\obj\Debug\MetodoFabrica.exe
+C:\Users\PRLNAS\source\repos\MetodoFabrica\obj\Debug\MetodoFabrica.pdb
