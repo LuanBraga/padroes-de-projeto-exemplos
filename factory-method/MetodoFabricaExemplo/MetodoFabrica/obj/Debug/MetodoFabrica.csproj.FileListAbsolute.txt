@@ -4,3 +4,10 @@ C:\Users\PRLNAS\source\repos\MetodoFabrica\bin\Debug\MetodoFabrica.pdb
 C:\Users\PRLNAS\source\repos\MetodoFabrica\obj\Debug\MetodoFabrica.csprojAssemblyReference.cache
 C:\Users\PRLNAS\source\repos\MetodoFabrica\obj\Debug\MetodoFabrica.exe
 C:\Users\PRLNAS\source\repos\MetodoFabrica\obj\Debug\MetodoFabrica.pdb
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\factory-method\MetodoFabricaExemplo\MetodoFabrica\bin\Debug\MetodoFabrica.exe.config
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\factory-method\MetodoFabricaExemplo\MetodoFabrica\bin\Debug\MetodoFabrica.exe
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\factory-method\MetodoFabricaExemplo\MetodoFabrica\bin\Debug\MetodoFabrica.pdb
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\factory-method\MetodoFabricaExemplo\MetodoFabrica\obj\Debug\MetodoFabrica.csprojAssemblyReference.cache
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\factory-method\MetodoFabricaExemplo\MetodoFabrica\obj\Debug\MetodoFabrica.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\factory-method\MetodoFabricaExemplo\MetodoFabrica\obj\Debug\MetodoFabrica.exe
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\factory-method\MetodoFabricaExemplo\MetodoFabrica\obj\Debug\MetodoFabrica.pdb
