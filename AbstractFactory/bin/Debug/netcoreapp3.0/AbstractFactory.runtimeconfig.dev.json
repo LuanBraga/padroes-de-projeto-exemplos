@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PRLNAS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PRLNAS\\.nuget\\packages"
+    ]
+  }
+}
