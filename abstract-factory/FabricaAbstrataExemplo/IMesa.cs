@@ -1,7 +1,7 @@
 ﻿namespace FabricaAbstrata
 {
-    public interface IMesa
+    public interface IMesa : IMobilia
     {
-        string RegularAltura();
+        public string RegularAltura();
     }
 }

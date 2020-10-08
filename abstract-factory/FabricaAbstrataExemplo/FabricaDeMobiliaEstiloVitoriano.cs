@@ -10,17 +10,17 @@ namespace FabricaAbstrata
     {
         public ICadeira CriarCadeira()
         {
-            throw new NotImplementedException();
+            return new CadeiraVitoriana();
         }
 
         public IMesa CriarMesa()
         {
-            throw new NotImplementedException();
+            return new MesaVitoriana();
         }
 
         public ISofa CriarSofa()
         {
-            throw new NotImplementedException();
+            return new SofaVitoriano();
         }
     }
 }

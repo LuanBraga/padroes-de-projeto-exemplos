@@ -1,7 +1,7 @@
 ﻿namespace FabricaAbstrata
 {
-    public interface ICadeira
+    public interface ICadeira : IMobilia
     {
-        string Reclinar();
+        public string Reclinar();
     }
 }
