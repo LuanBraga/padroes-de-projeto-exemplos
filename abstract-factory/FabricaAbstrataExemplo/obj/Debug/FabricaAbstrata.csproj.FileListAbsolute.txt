@@ -4,3 +4,10 @@ C:\Users\PRLNAS\source\repos\FabricaAbstrata\bin\Debug\FabricaAbstrata.pdb
 C:\Users\PRLNAS\source\repos\FabricaAbstrata\obj\Debug\FabricaAbstrata.csprojAssemblyReference.cache
 C:\Users\PRLNAS\source\repos\FabricaAbstrata\obj\Debug\FabricaAbstrata.exe
 C:\Users\PRLNAS\source\repos\FabricaAbstrata\obj\Debug\FabricaAbstrata.pdb
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\abstract-factory\FabricaAbstrataExemplo\bin\Debug\FabricaAbstrata.exe.config
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\abstract-factory\FabricaAbstrataExemplo\bin\Debug\FabricaAbstrata.exe
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\abstract-factory\FabricaAbstrataExemplo\bin\Debug\FabricaAbstrata.pdb
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\abstract-factory\FabricaAbstrataExemplo\obj\Debug\FabricaAbstrata.csprojAssemblyReference.cache
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\abstract-factory\FabricaAbstrataExemplo\obj\Debug\FabricaAbstrata.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\abstract-factory\FabricaAbstrataExemplo\obj\Debug\FabricaAbstrata.exe
+D:\Documentos\GitHub\padroes-de-projeto-exemplos\abstract-factory\FabricaAbstrataExemplo\obj\Debug\FabricaAbstrata.pdb
