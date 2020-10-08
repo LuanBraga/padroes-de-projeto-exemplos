@@ -6,21 +6,21 @@ using System.Threading.Tasks;
 
 namespace FabricaAbstrata
 {
-    class FabricaDeMobiliaEstiloArtDeco : IFabricaDeMobilia
+    class FabricaDeMobiliaEstiloModerno : IFabricaDeMobilia
     {
         public ICadeira CriarCadeira()
         {
-            throw new NotImplementedException();
+            return new CadeiraModerna();
         }
 
         public IMesa CriarMesa()
         {
-            throw new NotImplementedException();
+            return new MesaModerna();
         }
 
         public ISofa CriarSofa()
         {
-            throw new NotImplementedException();
+            return new SofaModerno();
         }
     }
 }

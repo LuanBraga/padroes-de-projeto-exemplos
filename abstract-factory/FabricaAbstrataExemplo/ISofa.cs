@@ -1,7 +1,7 @@
 ﻿namespace FabricaAbstrata
 {
-    public interface ISofa : IMobilia
+    public interface ISofa
     {
-        public string Estender();
+        string Estender();
     }
 }

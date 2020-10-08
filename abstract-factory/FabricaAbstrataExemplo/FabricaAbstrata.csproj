@@ -55,16 +55,11 @@
     <Compile Include="ICadeira.cs" />
     <Compile Include="IFabricaDeMobilia.cs" />
     <Compile Include="IMesa.cs" />
-    <Compile Include="IMobilia.cs" />
     <Compile Include="ISofa.cs" />
-    <Compile Include="MesaArtDeco.cs" />
     <Compile Include="MesaModerna.cs" />
-    <Compile Include="MesaVitoriana.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SofaArteDeco.cs" />
     <Compile Include="SofaModerno.cs" />
-    <Compile Include="SofaVitoriano.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

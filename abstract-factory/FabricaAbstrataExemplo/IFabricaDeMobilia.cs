@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace FabricaAbstrata
 {
-    class MesaModerna : IMesa
+    public interface IFabricaDeMobilia
     {
-        public string RegularAltura()
-        {
-            return "Regulando mesa moderna";
-        }
+        ICadeira CriarCadeira();
+
+        IMesa CriarMesa();
+
+        ISofa CriarSofa();
     }
 }
