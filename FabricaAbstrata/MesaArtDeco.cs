@@ -6,28 +6,26 @@ using System.Threading.Tasks;
 
 namespace FabricaAbstrata
 {
-    class MesaModerna : IMesa
+    class MesaArtDeco : IMesa
     {
-        private double _valor = 400;
-        public double Valor
-        {
+        private double _valor = 325;
+        public double Valor 
+        { 
             get => _valor;
-
-            set
+            
+            set 
             {
                 if (value > 0)
                 {
                     _valor = value;
                 }
-            }
-        }
-        private readonly string _nome = "Mesa Moderna";
-        public string Nome 
-        {
-            get => _nome; 
+            } 
         }
 
-        private string _estilo = "M";
+        private readonly string _nome = "Cadeira Arte Decor";
+        public string Nome => _nome;
+
+        private string _estilo = "A";
         public string Estilo => _estilo;
 
         public string MostrarPreco()

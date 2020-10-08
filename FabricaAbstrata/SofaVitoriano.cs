@@ -6,38 +6,39 @@ using System.Threading.Tasks;
 
 namespace FabricaAbstrata
 {
-    class MesaModerna : IMesa
+    class SofaVitoriano : ISofa
     {
-        private double _valor = 400;
-        public double Valor
-        {
-            get => _valor;
-
-            set
+        private double _valor = 600;
+        public double Valor 
+        { 
+            get => _valor; 
+            
+            set 
             {
                 if (value > 0)
                 {
                     _valor = value;
                 }
-            }
-        }
-        private readonly string _nome = "Mesa Moderna";
-        public string Nome 
-        {
-            get => _nome; 
+            } 
         }
 
-        private string _estilo = "M";
+        private readonly string _nome = "Sofá Vitoriano";
+        public string Nome
+        {
+            get => _nome;
+        }
+
+        private string _estilo = "V";
         public string Estilo => _estilo;
+
+        public string Estender()
+        {
+            return $"Estendendo {Nome}";
+        }
 
         public string MostrarPreco()
         {
             return $"R$ {Valor},00";
-        }
-
-        public string RegularAltura()
-        {
-            return $"Regulando {Nome}";
         }
 
         public bool Comparar(IMobilia movel)

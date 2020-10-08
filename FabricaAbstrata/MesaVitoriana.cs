@@ -6,28 +6,29 @@ using System.Threading.Tasks;
 
 namespace FabricaAbstrata
 {
-    class MesaModerna : IMesa
+    class MesaVitoriana : IMesa
     {
-        private double _valor = 400;
-        public double Valor
-        {
+        private double _valor = 340;
+        public double Valor 
+        { 
             get => _valor;
 
-            set
+            set 
             {
                 if (value > 0)
                 {
                     _valor = value;
                 }
-            }
+            } 
         }
-        private readonly string _nome = "Mesa Moderna";
+
+        private readonly string _nome = "Mesa Vitoriana";
         public string Nome 
-        {
+        { 
             get => _nome; 
         }
 
-        private string _estilo = "M";
+        private string _estilo = "V";
         public string Estilo => _estilo;
 
         public string MostrarPreco()
